@@ -1,0 +1,6 @@
+token:
+  secret: hello_my_decosk_secret_token_prod
+  expiration_time: 86400000  # 하루
+
+gateway:
+  ip: 192.168.0.8
