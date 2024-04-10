@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2275cf57-0b8e-49c8-b6e1-59c75dfcb5a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignores" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users-uat.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decosk-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/decosk-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/decosk-uat.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignores" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignores" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-uat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application-uat.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-uat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users-uat.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,11 @@
       <option name="presentableId" value="Default" />
       <updated>1712751312990</updated>
       <workItem from="1712751314397" duration="1111000" />
-      <workItem from="1712752725703" duration="420000" />
+      <workItem from="1712752725703" duration="553000" />
+      <workItem from="1712753290413" duration="108000" />
+      <workItem from="1712753410354" duration="93000" />
+      <workItem from="1712753509289" duration="177000" />
+      <workItem from="1712753693162" duration="35000" />
     </task>
     <servers />
   </component>
