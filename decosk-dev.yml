@@ -1,5 +1,5 @@
 token:
-  secret: hello_my_decosk_secret_token_dev
+  secret: hello_my_decosk_secret_token_dev#1
   expiration_time: 86400000  # 하루
 
 gateway:
