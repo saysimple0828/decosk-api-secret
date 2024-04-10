@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2275cf57-0b8e-49c8-b6e1-59c75dfcb5a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/application/application-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-uat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application/application-uat.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users/users-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users/users-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-uat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/users/users-uat.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +90,8 @@
       <workItem from="1712753410354" duration="93000" />
       <workItem from="1712753509289" duration="177000" />
       <workItem from="1712753693162" duration="35000" />
-      <workItem from="1712753886553" duration="2511000" />
+      <workItem from="1712753886553" duration="4000000" />
+      <workItem from="1712776330137" duration="232000" />
     </task>
     <servers />
   </component>
