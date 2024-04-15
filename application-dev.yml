@@ -2,5 +2,22 @@ token:
   expiration_time: 86400000
   secret: '{cipher}AQBvyZ+Xz4yfZlWUVOQJq+LSjDOkOxNvrHXBZtmQpK1SsPfXAmJwgKGNRFd2mqY/ZXTXtbi+006qTLGFQA3tvgArBYrEOQFLnlHr16f/fLK7tyweNUBPV0Wn9QORzfb+JFz+m88jEWoCgBlylgdDBO3lkaUozjIDUXSWx4yy5NKiu4zhWqWIxSvXcNK/AcP99P0X72bT9qPMn3+Dx0VXayPG6OUadsFoaCJvahyr/wgJ7t9sJj5LPe083mmkDlitfsXZgbSecxrGaARHBlBbDr2xZ1JBzRYp7fk7Ez0RHwJx6geNcon8y/kwQ7uTrrO3KtxcJ62unr+4uXko+Byg2la6M8Jc4nG/i29FZtqLHMesFIT6/J5is1vCjNOGfeVWI2Rd4GmNLxTSWBmAZHVk6F5A'
 
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/products
+    username: root
+    password: root
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+      show-sql: true
+      properties:
+        hibernate:
+          dialect: org.hibernate.dialect.MariaDBDialect
+          jdbc:
+            lob:
+              non_contextual_creation: true
+
 gateway:
   ip: 192.168.0.12
