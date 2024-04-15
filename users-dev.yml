@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://localhost:3306/mydb
-    username: root
-    password: '{cipher}AQBLKj9twONWAAkYDt7NWXdJ5rmYfv3PtM0Q3W2YAXEuSVuASIYD3bECc3tshSV/OijV4CABM6fY2wo6GXxT+2s4XTD5MwhlzpTpP6KBmq6vsiyITkZdVPurpIYfet43YoRiGRZzJFI3jvs61kw7aiK7Xm9jq2nv7DXjKh+yZIJ60Q/GVYoV12ILj2Rd1IX1+0w0n1NpQm4lfWHacmA+AWqsmdkJNWdc2gQZ4eaKSmfq/Eod16auEQXvL0Rh+bRNmdrqdtIumWfwNF7Vo5+q+4RtF3/1L9cFa744oqWR1d5DTPaD1IymMCuPvlpQAPiNslZ2YfdSsKQfxAPlcAe9gAuZsBL8TVuM9C1mFNgMii2Jj+ZnD3v/nNziCmKIjkQ1+T4='
+    username: test
+    password: '{cipher}AQCAuAZ+sX0BC3Tx4kJ3psFhXjS1b0UyyaGJZzAft2AIrZv1na7DYeOVWSOmEinC/7QvLr4qdrOJTJnS+9p6YJGYrrFFtEhxr/r4q1EH1mjnePOOQJd1/UuF49YjWSyz9f+KXdNGJXxupKLMw+MtZtvRG7A8ZEqqXYrT2SMaW9lkHkIeIn/we+dPR08DWSdds7Azjmy2FeAgS4IzB9LZyijircruY73a1TAAPU0n+op44O3B8UGE0jnUKWYO4S5j1V0RxRijzZvKcaMJS9xeCs7+c3wGEAM+d7cec/RUUqrP+jxilQjfoRDYcQ918ESp0guzubAEak7idl8KNjD+EhuOBmV5CsJrNHvkYutjTThpqDk9T+pJ96s7FimaaIvcHFQ='
 
 orders:
   url: http://orders/%s/orders
