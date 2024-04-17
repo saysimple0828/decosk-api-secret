@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/mydb
+    username: test
+    password: '{cipher}AQCAuAZ+sX0BC3Tx4kJ3psFhXjS1b0UyyaGJZzAft2AIrZv1na7DYeOVWSOmEinC/7QvLr4qdrOJTJnS+9p6YJGYrrFFtEhxr/r4q1EH1mjnePOOQJd1/UuF49YjWSyz9f+KXdNGJXxupKLMw+MtZtvRG7A8ZEqqXYrT2SMaW9lkHkIeIn/we+dPR08DWSdds7Azjmy2FeAgS4IzB9LZyijircruY73a1TAAPU0n+op44O3B8UGE0jnUKWYO4S5j1V0RxRijzZvKcaMJS9xeCs7+c3wGEAM+d7cec/RUUqrP+jxilQjfoRDYcQ918ESp0guzubAEak7idl8KNjD+EhuOBmV5CsJrNHvkYutjTThpqDk9T+pJ96s7FimaaIvcHFQ='
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
